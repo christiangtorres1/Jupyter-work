@@ -1,11 +1,11 @@
 # This app is made to check the inventory and goals of the jeans store.
 # To run change the integers and run application.
 
-sales = 500
+sales = 400
 initial_inventory = 750
 target = 450
 current_inventory = initial_inventory - sales
-hit_target = True
+hit_target = False
 
 print('August 2022 Sales report:')
 print(f'Sales this month were {sales} pairs of jeans.')
