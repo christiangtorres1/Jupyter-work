@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7ef60a8-5938-453a-9dd6-221b99040c80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Comparing Dataset Entries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c7ef60a8-5938-453a-9dd6-221b99040c80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +38,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/christiantorres/Desktop/Python stuff/Python-practice-directory/Mimo projects",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -57,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662079867884</updated>
       <workItem from="1662079870500" duration="1593000" />
+      <workItem from="1662083254556" duration="92000" />
     </task>
     <servers />
   </component>
